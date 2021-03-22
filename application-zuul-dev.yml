@@ -1,0 +1,9 @@
+zuul:
+  prefix: "/servers"
+  ignored-services: "*"
+  routes:
+    pay-server: "/pay/**"
+    order-server: "/order/**"
+  ribbon:
+    eager-load:
+      enabled: true
