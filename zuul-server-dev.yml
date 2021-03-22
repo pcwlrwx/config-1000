@@ -8,5 +8,5 @@ zuul:
     eager-load:
       enabled: true
 user:
-  username: lipengzhen
-  password: 123456789
+  username: lipz
+  password: 123456
