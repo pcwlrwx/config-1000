@@ -7,3 +7,6 @@ zuul:
   ribbon:
     eager-load:
       enabled: true
+user:
+  username: lipz-updated
+  password: 123456789
